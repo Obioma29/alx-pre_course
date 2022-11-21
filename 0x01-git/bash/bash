@@ -1,0 +1,3 @@
+root@edbd5c077300:/alx-pre_course/0x01-git/bash# cat bash
+
+root@edbd5c077300:/alx-pre_course/0x01-git/bash# echo 'Alx' > bash
