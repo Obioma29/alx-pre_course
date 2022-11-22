@@ -1,1 +1,1 @@
-Alx
+The School is open
